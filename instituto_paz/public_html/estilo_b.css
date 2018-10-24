@@ -1,0 +1,46 @@
+/* CSS Document */
+
+<!--
+
+body{ 
+	background-color:#FFFCE3;
+	font:Tahoma, Arial, Verdana;
+	font-size:16px;
+	color:#333333;
+	text-align:justify;	
+}
+a:link{
+	color:#9E5F72;
+	text-decoration:none;
+}
+a:visited {
+	text-decoration:none;
+	color:#503039;
+}
+a:hover {
+	text-decoration:underline;
+	color:#503039;
+}
+a:active {
+	text-decoration:none;
+	color:#9E5F72;
+}
+h1 {
+	color:#BB5C56;
+	font:Tahoma, Arial, Verdana;
+	font-size:36px;
+	font-weight:bold;
+	text-align:center;
+}
+h2{
+	color:#AD846B;
+	font:Tahoma, Arial, Verdana;
+	font-size:22px;
+	text-align:center;
+}
+h3{
+	color:#AD846B;
+	font:Tahoma, Arial, Verdana;
+	font-size:16px;
+	}
+-->
